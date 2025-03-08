@@ -1,0 +1,56 @@
+[
+  {
+    "month": 1,
+    "day": 1,
+    "celebration": "Solemnity of Mary, Mother of God",
+    "rank": "Solemnity",
+    "color": "White",
+    "proper_text": "The Blessed Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory.",
+    "year_introduced": 1970
+  },
+  {
+    "month": 12,
+    "day": 25,
+    "celebration": "The Nativity of the Lord (Christmas)",
+    "rank": "Solemnity",
+    "color": "White",
+    "proper_text": "The Nativity of our Lord Jesus Christ according to the flesh.",
+    "year_introduced": null
+  },
+  {
+    "month": 3,
+    "day": 19,
+    "celebration": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+    "rank": "Solemnity",
+    "color": "White",
+    "proper_text": "The commemoration of Saint Joseph, husband of the blessed Virgin Mary.",
+    "year_introduced": null
+  },
+  {
+    "month": 8,
+    "day": 15,
+    "celebration": "The Assumption of the Blessed Virgin Mary",
+    "rank": "Solemnity",
+    "color": "White",
+    "proper_text": "The Assumption into Heaven, body and soul, of the Blessed Virgin Mary, Mother of God.",
+    "year_introduced": null
+  },
+  {
+    "month": 11,
+    "day": 1,
+    "celebration": "All Saints",
+    "rank": "Solemnity",
+    "color": "White",
+    "proper_text": "The feast of all the Saints, known and unknown, who are enjoying the Beatific Vision in heaven.",
+    "year_introduced": null
+  },
+  {
+    "month": 6,
+    "day": 29,
+    "celebration": "Saints Peter and Paul, Apostles",
+    "rank": "Solemnity",
+    "color": "Red",
+    "proper_text": "The Solemnity of Saints Peter and Paul, Apostles. Simon, son of Jonah and brother of Andrew, was the first among the disciples to confess Christ as the Son of the living God, and for this was called Peter. Paul, Apostle of the Gentiles, preached Christ crucified to Jews and Greeks alike.",
+    "year_introduced": null
+  }
+]

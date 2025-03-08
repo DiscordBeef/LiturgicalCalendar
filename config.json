@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "dailyPostTime": "00:00",
+  "dailyPostChannel": "liturgical-calendar",
+  "timezone": "UTC",
+  "clientId": "YOUR_DISCORD_CLIENT_ID",
+  "guildId": "YOUR_DISCORD_GUILD_ID"
+}

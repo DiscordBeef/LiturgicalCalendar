@@ -1,0 +1,50 @@
+[
+  {
+    "month": 1,
+    "day": 1,
+    "celebration": "The Circumcision of Our Lord",
+    "rank": "Double of the Second Class",
+    "color": "White",
+    "proper_text": "The Circumcision of Our Lord Jesus Christ, and the Octave of His Nativity."
+  },
+  {
+    "month": 12,
+    "day": 25,
+    "celebration": "The Nativity of Our Lord Jesus Christ",
+    "rank": "Double of the First Class with an Octave",
+    "color": "White",
+    "proper_text": "In the year 5199 from the creation of the world, when God in the beginning created heaven and earth, in the year 2957 from the flood, in the year 2015 from the birth of Abraham, in the year 1510 from Moses and the going forth of the people of Israel from Egypt, in the year 1032 from the anointing of David as King, in the 65th week according to the prophecy of Daniel, in the 194th Olympiad, in the 752nd year from the founding of the City of Rome, in the 42nd year of the rule of Octavian Augustus, all the earth being at peace, Jesus Christ, Eternal God, and Son of the Eternal Father, desirous to sanctify the world by His most merciful coming, having been conceived of the Holy Ghost, and nine months having elapsed since His conception, is born in Bethlehem of Juda, having become Man of the Virgin Mary."
+  },
+  {
+    "month": 3,
+    "day": 19,
+    "celebration": "St. Joseph, Spouse of the Blessed Virgin Mary and Confessor, and Patron of the Universal Church",
+    "rank": "Double of the First Class",
+    "color": "White",
+    "proper_text": "The Feast of St. Joseph, Spouse of the Blessed Virgin Mary, Confessor, and Patron of the Universal Church."
+  },
+  {
+    "month": 8,
+    "day": 15,
+    "celebration": "The Assumption of the Blessed Virgin Mary",
+    "rank": "Double of the First Class with a Common Octave",
+    "color": "White",
+    "proper_text": "The Assumption of the Blessed Virgin Mary into Heaven."
+  },
+  {
+    "month": 11,
+    "day": 1,
+    "celebration": "All Saints",
+    "rank": "Double of the First Class with a Common Octave",
+    "color": "White",
+    "proper_text": "The Feast of All Saints."
+  },
+  {
+    "month": 6,
+    "day": 29,
+    "celebration": "Saints Peter and Paul, Apostles",
+    "rank": "Double of the First Class with a Common Octave",
+    "color": "Red",
+    "proper_text": "The Feast of Saints Peter and Paul, Apostles."
+  }
+]
